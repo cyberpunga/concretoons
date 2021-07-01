@@ -145,7 +145,7 @@ Si intentamos abrir los archivos `.html` dándoles doble click desde la carpeta 
 
 Para ver nuestros archivos `.html` utilizando el protocolo `http://` debemos servir nuestros archivos a través de un servidor web.
 
-Si tienes instalado NodeJS, una solución rápida es instalar el paquete `nws`.
+Si tenemos instalado NodeJS, una solución rápida es instalar el paquete `nws`.
 
 ```bash
 # Con npm
