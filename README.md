@@ -4,8 +4,6 @@ Visitar <a href="https://e-poetry.institute/concretoons/indice.html" target="_bl
 
 ![_el laberinto_ de _concretooons_](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zo8k7mzchky42gh765kk.png)
 
-# _**concretoons: poesía digital**_ para la internet después de Flash
-
 ## Introducción
 
 Antes que los _estándares abiertos_ como [HTML5](https://es.wikipedia.org/wiki/HTML5) (2014), [WebGL](https://es.wikipedia.org/wiki/WebGL) o [WebAssembly](https://es.wikipedia.org/wiki/WebAssembly) (ambos lanzados en 2017) alcanzaran su popularidad actual o siquiera existieran, [Adobe Flash Player](https://es.wikipedia.org/wiki/Adobe_Flash_Player) era la opción _por defecto_ de los creadores para la [experimentación artística en la web](https://www.latimes.com/entertainment-arts/story/2020-12-28/end-of-adobe-flash-animation-means-end-of-many-digital-art-projects-internet).
