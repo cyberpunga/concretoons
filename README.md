@@ -94,7 +94,7 @@ Una búsqueda en GitHub por posibles soluciones para visualizar y editar conteni
 
 Esta última (incluye una copia de [Ruffle](https://ruffle.rs) como módulo `.wasm`), tambien llamada _**self hosted**_ (_auto-alojable_), se puede incluir en un archivo `.html` que contenga contenido Flash, y permite que los usuarios vean el contenido sin tener que instalar nada por su lado.
 
-Descargamos una copia desde su [sitio web](https://ruffle.rs) y descomprimimos su contenido en una subcarpeta llamada `lib` que creamos en la carpeta principal de nuestro proyecto.
+Descargamos una copia desde su [sitio web](https://ruffle.rs) y descomprimimos su contenido en una subcarpeta llamada `lib` que debemos crear en la carpeta principal de nuestro proyecto.
 
 Por último debemos agregar la siguiente línea dentro del elemento `<head>` de nuestros archivos `.html`.
 
