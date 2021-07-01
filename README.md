@@ -1,10 +1,8 @@
-# concretoons
+Este es un trabajo de rescate de _**concretoons: poesía digital**_ para la internet después de Flash.
 
-Este es un trabajo de rescate de _**concretoons: poesía digital**_ para la internet después de Flash, utilizando [Ruffle](https://ruffle.rs) y [JPEXS Free Flash Decompiler](https://github.com/jindrapetrik/jpexs-decompiler).
+Puedes encontrar la <a href="https://e-poetry.institute/concretoons/indice.html" target="_blank"><strong>demo aquí</strong></a> y el <a href="https://github.com/e-poetry/concretoons" target="_blank">código aquí</a>.
 
 ![_el laberinto_ de _concretooons_](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zo8k7mzchky42gh765kk.png)
-
-# _**concretoons: poesía digital**_ para la internet después de Flash
 
 ## Introducción
 
@@ -94,7 +92,7 @@ Una búsqueda en GitHub por posibles soluciones para visualizar y editar conteni
 
 Esta última (incluye una copia de [Ruffle](https://ruffle.rs) como módulo `.wasm`), tambien llamada _**self hosted**_ (_auto-alojable_), se puede incluir en un archivo `.html` que contenga contenido Flash, y permite que los usuarios vean el contenido sin tener que instalar nada por su lado.
 
-Descargamos una copia desde su [sitio web](https://ruffle.rs) y descomprimimos su contenido en una subcarpeta llamada `lib` que creamos en la carpeta principal de nuestro proyecto.
+Descargamos una copia desde su [sitio web](https://ruffle.rs) y descomprimimos su contenido en una subcarpeta llamada `lib` que debemos crear en la carpeta principal de nuestro proyecto.
 
 Por último debemos agregar la siguiente línea dentro del elemento `<head>` de nuestros archivos `.html`.
 
@@ -145,7 +143,7 @@ Si intentamos abrir los archivos `.html` dándoles doble click desde la carpeta 
 
 Para ver nuestros archivos `.html` utilizando el protocolo `http://` debemos servir nuestros archivos a través de un servidor web.
 
-Si tienes instalado NodeJS, una solución rápida es instalar el paquete `nws`.
+Si tenemos instalado NodeJS, una solución rápida es instalar el paquete `nws`.
 
 ```bash
 # Con npm
