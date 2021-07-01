@@ -1,6 +1,6 @@
 Este es un trabajo de rescate de _**concretoons: poesía digital**_ para la internet después de Flash.
 
-Visitar [**demo aquí**](https://e-poetry.institute/concretoons).
+Visitar [**demo aquí**](https://e-poetry.institute/concretoons/indice.html).
 
 ![_el laberinto_ de _concretooons_](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zo8k7mzchky42gh765kk.png)
 
